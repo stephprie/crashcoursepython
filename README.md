@@ -1,2 +1,1 @@
-# crashcoursepython
-Crash course python final project - Coursera
+# Crash course Python - Final project - Coursera
